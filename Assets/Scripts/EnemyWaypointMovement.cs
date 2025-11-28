@@ -10,9 +10,15 @@ public class EnemyWaypointMovement : MonoBehaviour
     public float waypointReachedDistance = 0.1f;
     public bool loop = true;
 
+    [Header ("Combat Settings")]
+    public float damage = 10f;
+    public float attackCooldown = 1f;
+    public float knockbackForce = 15f;
+
     private Rigidbody2D rb;
     private int currentWaypointIndex = 0;
     private Vector2 movementDirection;
+    private float lastAttackTime;
     public Transform visual;
     private Animator anim;
 
@@ -83,5 +89,27 @@ void GoToNextWaypoint(){
         }
     }
     SetTargetWaypoint(currentWaypointIndex);
+}
+
+void OnCollisionEnter2D (Collision2D collision){
+    if (collision.gameObject.CompareTag ("Player")){
+        TryAttackPlayer(collision.gameObject);
+    }
+}
+
+void OnCollisionStay2D(Collision2D collision){
+    if (collision.gameObject.CompareTag("Player")){
+        TryAttackPlayer(collision.gameObject);
+    }
+}
+void TryAttackPlayer(GameObject player){
+    if (Time.time >= lastAttackTime + attackCooldown){
+        PlayerHealth playerHealth = player.GetComponent<PlayerHealth>();
+        if (playerHealth != null){
+            Vector2 knockbackDirection = (player.transform.position - transform.position).normalized;
+            playerHealth.TakeDamage (damage, knockbackDirection, knockbackForce);
+            lastAttackTime = Time.time;
+        }
+    }
 }
 }

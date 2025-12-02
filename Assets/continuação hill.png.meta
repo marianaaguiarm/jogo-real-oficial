@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 91e4e1a4a47b4ff408c120cf8f759ae5
+guid: 71c3fb4aafde7f9439891d3afa63cac4
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -103,12 +103,12 @@ TextureImporter:
       name: full spiral hill_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 466
-        height: 209
+        x: 356
+        y: 19
+        width: 110
+        height: 222
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f389dd3577e59994d8982f4b30b3f681
     internalID: 0
     vertices: []
     indices: 

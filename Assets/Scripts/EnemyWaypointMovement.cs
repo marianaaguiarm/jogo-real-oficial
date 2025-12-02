@@ -54,7 +54,7 @@ void MoveTowardsWaypoint (){
     Vector2 targetPosition = waypoints[currentWaypointIndex].position;
     movementDirection = (targetPosition - (Vector2)transform.position).normalized;
 
-    rb.linearVelocity = movementDirection*moveSpeed;
+    rb.linearVelocity = new Vector2 (movementDirection.x*moveSpeed, rb.linearVelocity.y);
             if (movementDirection.x > 0.01f)
         {
             visual.localScale = new Vector3(-1, 1, 1);
@@ -111,5 +111,9 @@ void TryAttackPlayer(GameObject player){
             lastAttackTime = Time.time;
         }
     }
+}
+
+public void Jump (float jumpForce){
+    rb.linearVelocity =  new Vector2 (rb.linearVelocity.x, jumpForce);
 }
 }

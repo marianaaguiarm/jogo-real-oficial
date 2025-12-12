@@ -182,7 +182,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.014934123, y: 0.3016692}
+  m_Offset: {x: 0.014934078, y: 0.3004381}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -192,7 +192,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.49223983, y: 0.6714491}
+  m_Size: {x: 0.24601966, y: 0.5261792}
   m_EdgeRadius: 0
 --- !u!50 &8788404571792373
 Rigidbody2D:
@@ -206,7 +206,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 11
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_GravityScale: 10
@@ -241,5 +241,5 @@ MonoBehaviour:
   loop: 1
   damage: 10
   attackCooldown: 1
-  knockbackForce: 70
+  knockbackForce: 100
   visual: {fileID: 4438816139125204219}

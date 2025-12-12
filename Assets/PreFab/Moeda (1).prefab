@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: -2301763660204275269}
   m_Layer: 0
   m_Name: Moeda (1)
-  m_TagString: Untagged
+  m_TagString: Coin
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30,7 +30,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 3.49, y: -1.69, z: 0}
-  m_LocalScale: {x: 361115, y: 0.05, z: 0.05}
+  m_LocalScale: {x: 2.61115, y: 3, z: 0.05}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -161,7 +161,7 @@ Animator:
   m_GameObject: {fileID: 1585166491670599211}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 548955fa6a1f5a64bac114e6e938b5a7, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0

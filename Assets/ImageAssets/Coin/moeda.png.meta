@@ -1,10 +1,106 @@
 fileFormatVersion: 2
-guid: b4dedb4482982e64c8b277db28eaa7e0
+guid: aafee7aa380a3b84d992e141e94499d9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -942102919010538650
-    second: moeda_0
+      213: -8535239954509655372
+    second: dfyty-removebg-preview_0
+  - first:
+      213: -3370080476461725296
+    second: dfyty-removebg-preview_1
+  - first:
+      213: 2246569722925567605
+    second: dfyty-removebg-preview_2
+  - first:
+      213: -8169656393712179239
+    second: dfyty-removebg-preview_3
+  - first:
+      213: -5067381065777130669
+    second: dfyty-removebg-preview_4
+  - first:
+      213: 7079593778398931127
+    second: dfyty-removebg-preview_5
+  - first:
+      213: -4335400760525979455
+    second: dfyty-removebg-preview_6
+  - first:
+      213: 7378201893934597482
+    second: dfyty-removebg-preview_7
+  - first:
+      213: 8063159757805631376
+    second: dfyty-removebg-preview_8
+  - first:
+      213: 4892375411991301605
+    second: dfyty-removebg-preview_9
+  - first:
+      213: 3853146038233453030
+    second: dfyty-removebg-preview_10
+  - first:
+      213: -789899022807601051
+    second: dfyty-removebg-preview_11
+  - first:
+      213: -5296250804029611906
+    second: dfyty-removebg-preview_12
+  - first:
+      213: 7405462958412055999
+    second: dfyty-removebg-preview_13
+  - first:
+      213: 8631510638714948009
+    second: dfyty-removebg-preview_14
+  - first:
+      213: 4897349960804955395
+    second: dfyty-removebg-preview_15
+  - first:
+      213: 903833394151667174
+    second: dfyty-removebg-preview_16
+  - first:
+      213: 7328602342687872641
+    second: dfyty-removebg-preview_17
+  - first:
+      213: -6855517844057096866
+    second: dfyty-removebg-preview_18
+  - first:
+      213: -5991183618129266846
+    second: dfyty-removebg-preview_19
+  - first:
+      213: -6898347384295261214
+    second: dfyty-removebg-preview_20
+  - first:
+      213: 4086300290557053227
+    second: dfyty-removebg-preview_21
+  - first:
+      213: -758266906047623949
+    second: dfyty-removebg-preview_22
+  - first:
+      213: -3638565907571472458
+    second: dfyty-removebg-preview_23
+  - first:
+      213: -5952406280836155146
+    second: dfyty-removebg-preview_24
+  - first:
+      213: 2567471925553188099
+    second: dfyty-removebg-preview_25
+  - first:
+      213: 374898531824233865
+    second: dfyty-removebg-preview_26
+  - first:
+      213: 15142523360317159
+    second: dfyty-removebg-preview_27
+  - first:
+      213: -4915606696027902366
+    second: dfyty-removebg-preview_28
+  - first:
+      213: -5186823787472806030
+    second: dfyty-removebg-preview_29
+  - first:
+      213: 3072484795893609665
+    second: dfyty-removebg-preview_30
+  - first:
+      213: -3278361163684063013
+    second: dfyty-removebg-preview_31
+  - first:
+      213: 1865693614247559391
+    second: dfyty-removebg-preview_32
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +209,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: moeda_0
+      name: dfyty-removebg-preview_0
       rect:
         serializedVersion: 2
-        x: 74
-        y: 74
-        width: 1052
-        height: 1052
+        x: 2
+        y: 150
+        width: 45
+        height: 38
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +224,712 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 66ba48af26afce2f0800000000000000
-      internalID: -942102919010538650
+      spriteID: 4b21bb6ab7cbc8980800000000000000
+      internalID: -8535239954509655372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 148
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099050089a11b31d0800000000000000
+      internalID: -3370080476461725296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 45
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e402a924b6d2f10800000000000000
+      internalID: 2246569722925567605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 152
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d769cb6bcc8f9e80800000000000000
+      internalID: -8169656393712179239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 144
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35350d0d4cb0da9b0800000000000000
+      internalID: -5067381065777130669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 152
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8a88b3805cf3260800000000000000
+      internalID: 7079593778398931127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 152
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c004ed6aff85d3c0800000000000000
+      internalID: -4335400760525979455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 144
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a650619f783a46660800000000000000
+      internalID: 7378201893934597482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 152
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097ba3b441916ef60800000000000000
+      internalID: 8063159757805631376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 102
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edc89b248535e340800000000000000
+      internalID: 4892375411991301605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 100
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1db9c28ef197530800000000000000
+      internalID: 3853146038233453030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 104
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560ff191607b905f0800000000000000
+      internalID: -789899022807601051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 96
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70207854ffef76b0800000000000000
+      internalID: -5296250804029611906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 104
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5c679235d75c660800000000000000
+      internalID: 7405462958412055999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 104
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a90c97b13949c770800000000000000
+      internalID: 8631510638714948009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 96
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3057d8297d1e6f340800000000000000
+      internalID: 4897349960804955395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 104
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5bb8aeeaf0b8c00800000000000000
+      internalID: 903833394151667174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 54
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1869108800d64b560800000000000000
+      internalID: 7328602342687872641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 52
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5dff99c7de4cd0a0800000000000000
+      internalID: -6855517844057096866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 56
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267f341fd3a0bdca0800000000000000
+      internalID: -5991183618129266846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 48
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebf5dd5a952440a0800000000000000
+      internalID: -6898347384295261214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 56
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b298a30d67475b830800000000000000
+      internalID: 4086300290557053227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 56
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcc81434481a75f0800000000000000
+      internalID: -758266906047623949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 48
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b70b53c597318dc0800000000000000
+      internalID: -3638565907571472458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 56
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8f4f7560ec46da0800000000000000
+      internalID: -5952406280836155146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dc26dfc1e71a320800000000000000
+      internalID: 2567471925553188099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 4
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98de2387a38e33500800000000000000
+      internalID: 374898531824233865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 8
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee05e57b0cc53000800000000000000
+      internalID: 15142523360317159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ea9b301c148cbb0800000000000000
+      internalID: -4915606696027902366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 8
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f132b0f33b408b0800000000000000
+      internalID: -5186823787472806030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 8
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4f605a4a8a3aa20800000000000000
+      internalID: 3072484795893609665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8dc2124ebe082d0800000000000000
+      internalID: -3278361163684063013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dfyty-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 8
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0c0f0157644e910800000000000000
+      internalID: 1865693614247559391
       vertices: []
       indices: 
       edges: []
@@ -148,7 +948,39 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      moeda_0: -942102919010538650
+      dfyty-removebg-preview_0: -8535239954509655372
+      dfyty-removebg-preview_1: -3370080476461725296
+      dfyty-removebg-preview_10: 3853146038233453030
+      dfyty-removebg-preview_11: -789899022807601051
+      dfyty-removebg-preview_12: -5296250804029611906
+      dfyty-removebg-preview_13: 7405462958412055999
+      dfyty-removebg-preview_14: 8631510638714948009
+      dfyty-removebg-preview_15: 4897349960804955395
+      dfyty-removebg-preview_16: 903833394151667174
+      dfyty-removebg-preview_17: 7328602342687872641
+      dfyty-removebg-preview_18: -6855517844057096866
+      dfyty-removebg-preview_19: -5991183618129266846
+      dfyty-removebg-preview_2: 2246569722925567605
+      dfyty-removebg-preview_20: -6898347384295261214
+      dfyty-removebg-preview_21: 4086300290557053227
+      dfyty-removebg-preview_22: -758266906047623949
+      dfyty-removebg-preview_23: -3638565907571472458
+      dfyty-removebg-preview_24: -5952406280836155146
+      dfyty-removebg-preview_25: 2567471925553188099
+      dfyty-removebg-preview_26: 374898531824233865
+      dfyty-removebg-preview_27: 15142523360317159
+      dfyty-removebg-preview_28: -4915606696027902366
+      dfyty-removebg-preview_29: -5186823787472806030
+      dfyty-removebg-preview_3: -8169656393712179239
+      dfyty-removebg-preview_30: 3072484795893609665
+      dfyty-removebg-preview_31: -3278361163684063013
+      dfyty-removebg-preview_32: 1865693614247559391
+      dfyty-removebg-preview_4: -5067381065777130669
+      dfyty-removebg-preview_5: 7079593778398931127
+      dfyty-removebg-preview_6: -4335400760525979455
+      dfyty-removebg-preview_7: 7378201893934597482
+      dfyty-removebg-preview_8: 8063159757805631376
+      dfyty-removebg-preview_9: 4892375411991301605
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2505605510105884946}
   - component: {fileID: 6847638797088819083}
   - component: {fileID: 3311284802982883502}
-  - component: {fileID: 2129396097405578130}
+  - component: {fileID: -2301763660204275269}
   m_Layer: 0
   m_Name: Moeda (1)
   m_TagString: Untagged
@@ -30,7 +30,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 3.49, y: -1.69, z: 0}
-  m_LocalScale: {x: 0.05, y: 0.05, z: 0.05}
+  m_LocalScale: {x: 361115, y: 0.05, z: 0.05}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -82,7 +82,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -942102919010538650, guid: b4dedb4482982e64c8b277db28eaa7e0, type: 3}
+  m_Sprite: {fileID: -8535239954509655372, guid: aafee7aa380a3b84d992e141e94499d9, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -131,7 +131,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 10.52, y: 10.52}
+    oldSize: {x: 0.45, y: 0.38}
     newSize: {x: 10.52, y: 10.52}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -151,7 +151,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e47a4f398d9081849b0e905fda4ecbb4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CoinCounter
---- !u!95 &2129396097405578130
+--- !u!95 &-2301763660204275269
 Animator:
   serializedVersion: 7
   m_ObjectHideFlags: 0
@@ -161,7 +161,7 @@ Animator:
   m_GameObject: {fileID: 1585166491670599211}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 356f9261bfc33aa4391fd8e45f1fe2b9, type: 2}
+  m_Controller: {fileID: 0}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
